@@ -1,0 +1,14 @@
+numpy==1.18.5
+opencv-python==4.4.0.46
+pytesseract==0.3.6
+scipy==1.4.1
+easydict==1.9
+Keras==2.4.3
+requests==2.25.0
+tensorflow==2.3.0rc0
+absl-py==0.11.0
+Pillow==8.2.0
+scikit-learn==0.24.1
+python-dotenv==0.19.2
+flask
+flask-cors
